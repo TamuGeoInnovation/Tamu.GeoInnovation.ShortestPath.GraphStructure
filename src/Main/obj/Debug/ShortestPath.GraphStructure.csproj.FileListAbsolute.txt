@@ -1,9 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\GraphStructure\build\debug\USC.GISResearchLab.ShortestPath.GraphStructure.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\GraphStructure\build\debug\USC.GISResearchLab.ShortestPath.GraphStructure.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\GraphStructure\src\obj\Debug\ShortestPath.GraphStructure.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\GraphStructure\src\obj\Debug\USC.GISResearchLab.ShortestPath.GraphStructure.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\ShortestPath\GraphStructure\src\obj\Debug\USC.GISResearchLab.ShortestPath.GraphStructure.pdb
-C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.GraphStructure\build\1.0.0\debug\Tamu.GeoInnovation.ShortestPath.GraphStructure.dll
-C:\DevBuild\Tamu\GeoInnovation\ShortestPath\ShortestPath.GraphStructure\build\1.0.0\debug\Tamu.GeoInnovation.ShortestPath.GraphStructure.pdb
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\GraphStructure\src\obj\Debug\Tamu.GeoInnovation.ShortestPath.GraphStructure.dll
-C:\DevSource\Tamu\GeoInnovation\ShortestPath\GraphStructure\src\obj\Debug\Tamu.GeoInnovation.ShortestPath.GraphStructure.pdb
