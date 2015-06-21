@@ -1,0 +1,4 @@
+C:\DevSource\Tamu\GeoInnovation\ShortestPath.GraphStructure\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.GraphStructure.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath.GraphStructure\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.ShortestPath.GraphStructure.pdb
+C:\DevSource\Tamu\GeoInnovation\ShortestPath.GraphStructure\src\Main\obj\Release\Tamu.GeoInnovation.ShortestPath.GraphStructure.dll
+C:\DevSource\Tamu\GeoInnovation\ShortestPath.GraphStructure\src\Main\obj\Release\Tamu.GeoInnovation.ShortestPath.GraphStructure.pdb
